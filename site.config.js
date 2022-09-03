@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '群仔的个人博客',
-  domain: 'https://www.notion.so/Personal-Home-252217e646df46d78e610b3a2ac5d66a',
+  domain: 'https://noiseless-chicken-981.notion.site/Qunzai-252217e646df46d78e610b3a2ac5d66a',
   author: 'qunzai',
 
   // open graph metadata (optional)
